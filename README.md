@@ -1,2 +1,8 @@
 # Proyecto-ML
 Proyecto Música Libre
+ Les presento el Proyecto ML. Surge de la necesidad de colaborar con la educación musical de las personas disminuídas visuales o invidentes.
+Realizada la investigación descubrimos que  existe una gran dificultad a la hora de enseñar esta disciplina a este grupo de personas , debido a falta de información, falta de políticas de estado, carencia de recursos adecuados o simplemente exclusión de los mismos al tratarse de un grán negocio para algunos,egoísmo y abandono por parte de la mayoría de la sociedad hacia el sector de las personas con discapacidades.
+Por lo que  fué necesario idear  un software gratuito y completamente libre , tal como lo indica la licencia Creative Commons, Un software que satisfaga cada punto posible en cuanto a la educación musical de cualquier ser humano , de cualquier parte del mundo, de cualquier edad y de cualquier condición social.
+Es esto una idea que soltaré para que aquellos desarrolladores interesados hagan realidad y para que todas las personas interesadas puedan ayudar a modificar y mejorar durante muchos años, esa es la magia del software libre!
+
+El programa es un método de estudio de la música en śi mismo, porque se separa en niveles de dificultad y usa metodologías específicas, el cual integra el entrenamiento auditivo  , la lecto escritura musical, la ejecución de un instrumento a elección, piano o teclado, guitarra o flauta, que integra el estudio de la historia de las grandes obras musicales y sus compositores ,que integra un apartado especial para niños  pequeños  y un apartado específico de Musicografía Braille , dado que es el idioma musical de las personas invidentes y por tanto no debemos negarselo.
